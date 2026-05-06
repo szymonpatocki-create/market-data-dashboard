@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market Data Dashboard
 
 A small full-stack market data dashboard built with a **Python FastAPI backend** and a **React frontend**.
@@ -1168,3 +1169,21 @@ The backend is built with Python and FastAPI. It exposes REST API endpoints, gen
 The frontend is built with React. It fetches data from the backend, allows the user to select a symbol and displays the result using statistic cards, a price chart and a data table.
 
 The goal of the project was to practice backend API development, frontend data fetching and visualization in a way that is similar to data-oriented applications used in financial technology.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> 4843d06 (Add detailed README and screenshots)
