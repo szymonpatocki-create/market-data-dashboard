@@ -1169,5 +1169,5 @@ The backend is built with Python and FastAPI. It exposes REST API endpoints, gen
 The frontend is built with React. It fetches data from the backend, allows the user to select a symbol and displays the result using statistic cards, a price chart and a data table.
 
 The goal of the project was to practice backend API development, frontend data fetching and visualization in a way that is similar to data-oriented applications used in financial technology.
-=======
+
 
