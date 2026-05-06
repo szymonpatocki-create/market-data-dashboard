@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Market Data Dashboard
 
 A small full-stack market data dashboard built with a **Python FastAPI backend** and a **React frontend**.
