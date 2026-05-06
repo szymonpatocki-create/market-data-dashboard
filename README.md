@@ -22,27 +22,6 @@ The **frontend** consumes the API, allows the user to select a stock symbol and 
 
 ---
 
-## Tech Stack
-
-**Backend**
-- Python
-- FastAPI
-- Uvicorn
-
-**Frontend**
-- React
-- Vite
-- JavaScript
-- Recharts
-- CSS
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
----
-
 ## Features
 
 - FastAPI REST API
@@ -68,9 +47,6 @@ The **frontend** consumes the API, allows the user to select a stock symbol and 
 
 ![FastAPI docs](screenshots/api-docs.png)
 
-### Example API Response
-
-![Backend response](screenshots/backend-response.png)
 
 ---
 
